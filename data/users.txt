@@ -1,0 +1,4 @@
+6,Admin,admin@system.com,0559999999,Administrator,admin123
+7,Alice,alice@mail.com,0551000000,EventGoer,password123
+8,Bob,bob@org.com,0552000000,EventOrganizer,password123
+9,Admin,admin@system.com,0559999999,Administrator,password123
